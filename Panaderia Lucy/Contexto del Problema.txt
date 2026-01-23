@@ -1,0 +1,8 @@
+La Panadería Lucy enfrentaba tres preguntas clave sobre su negocio:
+1. ¿Cuáles son sus ingresos totales?
+2. ¿Cómo es el desempeño de su equipo de trabajo?
+3. ¿Qué productos se están vendiendo más?
+
+Como Analistas de Datos, nuestro objetivo fue transformar estos interrogantes en respuestas claras y visuales, facilitando la toma de decisiones con información precisa y accionable.
+
+En este proyecto veremos los 5 pasos necesarios para llegar a estas conclusiones.

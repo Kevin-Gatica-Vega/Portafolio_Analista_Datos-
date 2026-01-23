@@ -1,0 +1,31 @@
+Fecha,Hora,Objeto_vendido,Precio_del_producto,Cantidad_que_pago_el_cliente,Cambio,Personal_que_atendió
+2026-01-15,07:05,Concha,15,20,5,Julieta Garza
+2026-01-15,07:08,Bolillo,8,10,2,Julieta Garza
+2026-01-15,07:15,Café americano,20,50,30,Mauricio Castillo
+2026-01-15,07:18,Cuernito,18,20,2,Julieta Garza
+2026-01-15,07:30,Concha,15,20,5,Mauricio Castillo
+2026-01-15,07:42,Pan dulce surtido,30,50,20,Andrea Ibarra
+2026-01-15,08:01,Bolillo,8,10,2,Julieta Garza
+2026-01-15,08:05,Café americano,20,20,0,Mauricio Castillo
+2026-01-15,08:10,Oreja,22,50,28,Andrea Ibarra
+2026-01-15,08:20,Cuernito,18,20,2,Julieta Garza
+2026-01-15,08:35,Concha,15,50,35,Mauricio Castillo
+2026-01-15,08:40,Bolillo,8,10,2,Andrea Ibarra
+2026-01-15,09:00,Café americano,20,20,0,Julieta Garza
+2026-01-15,09:05,Oreja,22,50,28,Mauricio Castillo
+2026-01-15,09:12,Pan dulce surtido,30,50,20,Andrea Ibarra
+2026-01-15,09:30,Concha,15,20,5,Julieta Garza
+2026-01-15,09:45,Bolillo,8,10,2,Mauricio Castillo
+2026-01-15,10:00,Café americano,20,50,30,Andrea Ibarra
+2026-01-15,10:15,Cuernito,18,20,2,Julieta Garza
+2026-01-15,10:30,Oreja,22,50,28,Mauricio Castillo
+2026-01-15,10:45,Concha,15,20,5,Andrea Ibarra
+2026-01-15,11:00,Bolillo,8,10,2,Julieta Garza
+2026-01-15,11:20,Café americano,20,20,0,Mauricio Castillo
+2026-01-15,11:35,Pan dulce surtido,30,50,20,Andrea Ibarra
+2026-01-15,12:00,Cuernito,18,20,2,Julieta Garza
+2026-01-15,12:15,Oreja,22,50,28,Mauricio Castillo
+2026-01-15,12:30,Concha,15,20,5,Andrea Ibarra
+2026-01-15,13:00,Bolillo,8,10,2,Julieta Garza
+2026-01-15,13:15,Café americano,20,50,30,Mauricio Castillo
+2026-01-15,13:45,Pan dulce surtido,30,50,20,Andrea Ibarra
